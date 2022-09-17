@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto Construído no evento Next Level Week da Rockseat.
+Projeto Construído no evento Next Level Week da Rockseat. Do dia 12 até dia 16 de setembro de 2022.
 
 
 ## 🧰 Tecnologias
